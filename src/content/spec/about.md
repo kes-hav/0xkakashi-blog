@@ -3,7 +3,7 @@
 
 🌱 My interests span across the vast realm of IT, with a keen focus on Cyber Security. I love learning and exploring new technologies. I actively compete in various Capture The Flag (CTF) competitions with my team, **konohagakure**. You can find out more about us on our [CTFtime profile](https://ctftime.org/team/309244)
 
-💻 My tech journey has equipped me with a robust skill set in web development and programming. I’ve worked with technologies including HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, PHP, Firebase, SQL, NoSQL, MongoDB, Python, C, Java, C++, Flask, and Django. This diverse knowledge allows me to integrate security with development seamlessly.
+💻 My tech journey has equipped me with a robust skill set in web/mobile development and programming. I’ve worked with technologies including HTML, CSS, JavaScript, TypeScript, Tailwind CSS, React, PHP, Firebase, SQL, NoSQL, MongoDB, Python, C, Java, Flutter, Dart, C++, Flask, and Django. This diverse knowledge allows me to integrate security with development seamlessly.
 
 🌟 Beyond cybersecurity and coding, I’m constantly exploring new technologies and staying updated with the latest industry trends.
 
